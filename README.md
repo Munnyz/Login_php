@@ -1,7 +1,8 @@
 # Login usando PHP, HTML E CSS
 # XAMPP MYSQL
 
-Banco de dados = login
+Banco de dados = login;
+
 Importar o arquivo para o seu banco de dados
 
 CRUD com validações em PHP, de cadastro.
